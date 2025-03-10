@@ -5,4 +5,4 @@
 Créer une page d'accueil en utilisant le standard BEM et Sass pour reproduire le contenu de maquette.
 Auteur: Adil
 
-### Githyb-page: https://eddytuto.github.io/h25-4w4-gr1/
+### Githyb-page: [https://eddytuto.github.io/h25-4w4-gr1/](https://github.com/Adil-ELAMRANI/club-voyage.git)
